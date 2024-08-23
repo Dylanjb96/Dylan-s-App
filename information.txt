@@ -1,0 +1,6 @@
+dylans_app //Database
+dylans_app_user //Username
+dpg-cr31d8g8fa8c73c3n380-a //Hostname
+vfLVVcE4ahTIkq0GlaLxBJnLR9fW1LbR //Password
+postgresql://dylans_app_user:vfLVVcE4ahTIkq0GlaLxBJnLR9fW1LbR@dpg-cr31d8g8fa8c73c3n380-a/dylans_app //Internal
+postgresql://dylans_app_user:vfLVVcE4ahTIkq0GlaLxBJnLR9fW1LbR@dpg-cr31d8g8fa8c73c3n380-a.frankfurt-postgres.render.com/dylans_app //External

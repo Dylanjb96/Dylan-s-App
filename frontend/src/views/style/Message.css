@@ -1,0 +1,76 @@
+/* General Styles */
+body {
+    margin-top: 20px; /* Adds top margin to the body element for spacing */
+}
+
+/* Chat Status Colors */
+.chat-online {
+    color: #34ce57; /* Green color for online status */
+}
+
+.chat-offline {
+    color: #e4606d; /* Red color for offline status */
+}
+
+/* Chat Messages Container */
+.chat-messages {
+    display: flex; /* Uses Flexbox layout */
+    flex-direction: column; /* Aligns children (messages) in a column */
+    max-height: 800px; /* Sets a maximum height for the container */
+    overflow-y: scroll; /* Adds vertical scrolling if content overflows */
+}
+
+/* Chat Message Containers */
+.chat-message-left,
+.chat-message-right {
+    display: flex; /* Uses Flexbox layout for message containers */
+    flex-shrink: 0; /* Prevents the flex items from shrinking */
+}
+
+/* Left-Aligned Messages */
+.chat-message-left {
+    flex-direction: row; /* Aligns items in a row for left-aligned messages */
+    margin-right: auto; /* Aligns message container to the left */
+}
+
+/* Right-Aligned Messages */
+.chat-message-right {
+    flex-direction: row-reverse; /* Aligns items in a row in reverse order for right-aligned messages */
+    margin-left: auto; /* Aligns message container to the right */
+}
+
+/* Padding Utilities */
+.py-3 {
+    padding-top: 1rem!important; /* Adds 1rem padding to the top */
+    padding-bottom: 1rem!important; /* Adds 1rem padding to the bottom */
+}
+.px-4 {
+    padding-right: 1.5rem!important; /* Adds 1.5rem padding to the right */
+    padding-left: 1.5rem!important; /* Adds 1.5rem padding to the left */
+}
+
+/* Flexbox Utility */
+.flex-grow-0 {
+    flex-grow: 0!important; /* Prevents flex items from growing */
+}
+
+/* Border Utility */
+.border-top {
+    border-top: 1px solid #dee2e6!important; /* Adds a top border with a light gray color */
+}
+
+/* Message Content Styling */
+.chat-message-left .message-content {
+    background-color: #aeaeae; /* Light gray background for left-aligned messages */
+    color: #000; /* Black text color for left-aligned messages */
+    border-radius: 15px; /* Rounded corners for message bubbles */
+    padding: 10px; /* Adds padding inside the message bubbles */
+}
+
+.chat-message-right .message-content {
+    background-color: #007bff; /* Blue background for right-aligned messages */
+    color: white; /* White text color for right-aligned messages */
+    border-radius: 15px; /* Rounded corners for message bubbles */
+    padding: 10px; /* Adds padding inside the message bubbles */
+}
+
