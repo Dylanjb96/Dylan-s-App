@@ -77,7 +77,7 @@ Guidelines for contributing to the project. Contributions are welcome! Please fo
 The main problem i have faced when doing this project, was the messaging section. I could not make the messaging part look normal or professional (See the screenshots). So i could not find the time and resources to solve the problem i have in this part of the project. Also the online status I had it's now gone and I did not pay attention to it while I was trying to solve the messaging issue. But nevertheless, I think what i have at the moment is good as it can get. Feel free to suggest a solution to solve this issue. 
 
 ##Screenshots
-![Alt text] (C:\Users\Dylan B\Pictures\Screenshots\Screenshot(182)
+![Alt text] (C:\Users\Dylan B\Pictures\Screenshots\Screenshot(182.png))
 
 
 - *** Link to Render.com ***
