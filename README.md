@@ -77,10 +77,14 @@ Guidelines for contributing to the project. Contributions are welcome! Please fo
 The main problem i have faced when doing this project, was the messaging section. I could not make the messaging part look normal or professional (See the screenshots). So i could not find the time and resources to solve the problem i have in this part of the project. Also the online status I had it's now gone and I did not pay attention to it while I was trying to solve the messaging issue. But nevertheless, I think what i have at the moment is good as it can get. Feel free to suggest a solution to solve this issue. 
 
 ##Screenshots
+
 ![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(182).png?raw=true)
 ![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(183).png?raw=true)
 ![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(184).png?raw=true)
 ![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(190).png?raw=true)
+![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(191).png?raw=true)
+![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(192).png?raw=true)
+![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(193).png?raw=true)
 ![Screenshot 1](https://github.com/user-attachments/assets/23cc8cd3-55df-46a6-9f32-0e237058a184)
 ![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(187).png?raw=true)
 ![Screenshot 1](https://github.com/Dylanjb96/Dylan-s-App/blob/master/Screenshot%20(188).png?raw=true)
