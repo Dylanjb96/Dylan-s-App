@@ -59,7 +59,7 @@ Register: Register a new account at http://127.0.0.1:8000/register.
 Todo Management: Manage your tasks from the dashboard.
 Messaging: Send and receive messages via the messaging feature.
 
-## Techbologies Used
+## Technologies Used
 - Backend: Django, Django REST Framework, PostgreSQL
 - Frontend: React, Bootstrap
 - Authentication: JWT
